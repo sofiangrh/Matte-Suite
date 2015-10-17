@@ -10,7 +10,7 @@ In screenshots:
 2. MattePE-Brave (w/ gnome-tribute)
 3. MattePE-Dust
 
-Enjoy. 
+Enjoy :)
 
 # Screenshot
 <img src="http://gnome-look.org/CONTENT/content-pre1/107888-1.jpg" height="480" width="640">
