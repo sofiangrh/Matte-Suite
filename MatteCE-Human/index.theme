@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MatteCE-Human
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=MatteCE-Human
+MetacityTheme=MatteMC
+IconTheme=gnome-human

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MattePE-Wine
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=MattePE-Wine
+MetacityTheme=MatteMC
+IconTheme=gnome-wine

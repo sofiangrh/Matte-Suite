@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MattePE-Noble
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=MattePE-Noble
+MetacityTheme=MatteMC
+IconTheme=gnome-noble

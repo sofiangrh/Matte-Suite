@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MattePE-Wise
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=MattePE-Wise
+MetacityTheme=MatteMC
+IconTheme=gnome-wise

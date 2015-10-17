@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MattePE-Dust
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=MattePE-Dust
+MetacityTheme=MatteMC
+IconTheme=gnome-dust

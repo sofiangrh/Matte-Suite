@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=MatteCE-Brave
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=MatteCE-Brave
+MetacityTheme=MatteMC
+IconTheme=gnome-brave
